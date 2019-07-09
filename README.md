@@ -11,7 +11,9 @@ Setting up local environment
 Arguments
 
 -d --rootdir, Directory to scan. Optional, Defaults to \python-scanner\data 
+
 -k --keys, Keys to scan for in rootdir. Optional, Defaults to TODO
+
 -i --ignoreList, Folder to exclude scan from. Optional, Defaults to .git
 
 Usage: python scanner.py
