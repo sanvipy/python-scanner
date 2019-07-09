@@ -1,0 +1,41 @@
+INFO Scanning for ['TODO', 'FIXME'] in files under data/sample-project
+INFO Following directories will not be scanned
+INFO .git\description
+INFO 
+-----Scanning--------------------
+INFO data/sample-project\tests\myTests_1.js, line 4
+INFO TODO: Add more tests here
+
+INFO data/sample-project\modules\subModules\mySub_1.js, line 4
+INFO TODO: Add more sub modules here
+
+INFO data/sample-project\home.html, line 4
+INFO TODO: Add js from submodule here-->
+
+INFO data/sample-project\home.html, line 12
+INFO TODO: Add SELECT option here-->
+
+INFO data/sample-project\main.js, line 2
+INFO TODO: Alert Hello There istead
+
+INFO data/sample-project\main.js, line 9
+INFO TODO: Change to amber      
+
+INFO data/sample-project\main.js, line 11
+INFO TODO: Add new style
+
+INFO data/sample-project\tests\myTests_2.js, line 1
+INFO TODO: Remove these tests before release
+
+INFO data/sample-project\modules\myModule_1.js, line 4
+INFO TODO: Add module func here
+
+INFO data/sample-project\modules\go\hello.go, line 9
+INFO TODO: Update the message
+
+INFO data/sample-project\modules\go\hello.go, line 14
+INFO FIXME: Serve through 443 instead
+
+INFO data/sample-project\modules\subModules\mySub_2.js, line 1
+INFO FIXME: update to submodule
+
